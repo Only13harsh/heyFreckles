@@ -18,7 +18,10 @@ const febHolidays = [
     "The way you look at me, the way you laugh—it makes my world better.",
     "One day, we'll look back at all these moments and smile.",
     "Because love isn't just about grand gestures. It's about the small moments that stay forever.",
-    "So, will you want to give me some more time from your precious life, so that we could have 3 kids—2 girls & 1 boy? As far as I remember, that way they won’t fight for property. 😌"
+    "So, will you want to give me some more time from your precious life, so that we could have 3 kids—2 girls & 1 boy? ",
+    " that way they won’t fight for property. 😌",
+    "So can we be atlest good friends and start it all over again",
+    "from the Basics? , no Hastes"
   ];
   const ulEl = document.querySelector("ul");
   const d = new Date();
