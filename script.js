@@ -3,7 +3,7 @@ const codeInput = document.getElementById('code');
 const submitBtn = document.getElementById('submit-btn');
 const resultDiv = document.getElementById('result');
 
-const secretCodes = ['Frekles', 'frekles']; // Store both variations
+const secretCodes = ['Freckles', 'freckles']; // Store both variations
 const nextPageUrl = 'main.html'; // Replace with the URL of the new page
 
 form.addEventListener('submit', (e) => {
